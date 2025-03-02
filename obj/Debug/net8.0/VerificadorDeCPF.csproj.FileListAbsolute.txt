@@ -1,0 +1,14 @@
+C:\Users\luiza\Csharp\VerificadorDeCPF\bin\Debug\net8.0\VerificadorDeCPF.exe
+C:\Users\luiza\Csharp\VerificadorDeCPF\bin\Debug\net8.0\VerificadorDeCPF.deps.json
+C:\Users\luiza\Csharp\VerificadorDeCPF\bin\Debug\net8.0\VerificadorDeCPF.runtimeconfig.json
+C:\Users\luiza\Csharp\VerificadorDeCPF\bin\Debug\net8.0\VerificadorDeCPF.dll
+C:\Users\luiza\Csharp\VerificadorDeCPF\bin\Debug\net8.0\VerificadorDeCPF.pdb
+C:\Users\luiza\Csharp\VerificadorDeCPF\obj\Debug\net8.0\VerificadorDeCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiza\Csharp\VerificadorDeCPF\obj\Debug\net8.0\VerificadorDeCPF.AssemblyInfoInputs.cache
+C:\Users\luiza\Csharp\VerificadorDeCPF\obj\Debug\net8.0\VerificadorDeCPF.AssemblyInfo.cs
+C:\Users\luiza\Csharp\VerificadorDeCPF\obj\Debug\net8.0\VerificadorDeCPF.csproj.CoreCompileInputs.cache
+C:\Users\luiza\Csharp\VerificadorDeCPF\obj\Debug\net8.0\VerificadorDeCPF.dll
+C:\Users\luiza\Csharp\VerificadorDeCPF\obj\Debug\net8.0\refint\VerificadorDeCPF.dll
+C:\Users\luiza\Csharp\VerificadorDeCPF\obj\Debug\net8.0\VerificadorDeCPF.pdb
+C:\Users\luiza\Csharp\VerificadorDeCPF\obj\Debug\net8.0\VerificadorDeCPF.genruntimeconfig.cache
+C:\Users\luiza\Csharp\VerificadorDeCPF\obj\Debug\net8.0\ref\VerificadorDeCPF.dll
